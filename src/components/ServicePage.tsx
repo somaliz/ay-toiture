@@ -29,9 +29,9 @@ const ServicePage = ({ title, description, longDescription, icon: Icon, features
               </a>
             </Button>
             <Button variant="outline" size="lg" asChild>
-              <a href="tel:+33659637006">
+              <a href="tel:+33604053510">
                 <Phone className="w-4 h-4 mr-2" />
-                06 59 63 70 06
+                06 04 05 35 10
               </a>
             </Button>
           </div>
@@ -113,9 +113,9 @@ const ServicePage = ({ title, description, longDescription, icon: Icon, features
               </a>
             </Button>
             <Button variant="outline" size="lg" className="bg-primary-foreground text-primary hover:bg-primary-foreground/90 border-primary-foreground" asChild>
-              <a href="tel:+33659637006">
+              <a href="tel:+33604053510">
                 <Phone className="w-4 h-4 mr-2" />
-                06 59 63 70 06
+                06 04 05 35 10
               </a>
             </Button>
           </div>
