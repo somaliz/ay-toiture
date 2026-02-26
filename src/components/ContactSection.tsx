@@ -14,7 +14,7 @@ const ContactSection = () => {
               Devis Gratuit
             </span>
             <h2 className="text-3xl lg:text-4xl font-display font-extrabold text-primary-foreground mt-3 mb-4">
-              Besoin d'un débarras ?
+              Besoin de couverture ou charpente ?
               <br />
               Contactez-nous maintenant
             </h2>

@@ -37,7 +37,7 @@ const FeaturesSection = () => {
             Nos Atouts
           </span>
           <h2 className="text-3xl lg:text-4xl font-display font-extrabold text-foreground mt-3 mb-4">
-            Pourquoi choisir DebarrasPower ?
+            Pourquoi choisir TOITURE PACA ?
           </h2>
         </div>
 
