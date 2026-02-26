@@ -1,0 +1,567 @@
+{
+  "moves": [
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_0FF3D6C9-0557-4445-8221-CE42C1E1FFA6.jpg",
+      "to": "public/images/diogene/IMG_0FF3D6C9-0557-4445-8221-CE42C1E1FFA6.jpg",
+      "category": "diogene"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_4C3F2B65-B56D-4BC5-B860-4AADD3DA2D3B.jpg",
+      "to": "public/images/classique/IMG_4C3F2B65-B56D-4BC5-B860-4AADD3DA2D3B.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_5719.jpg",
+      "to": "public/images/classique/IMG_5719.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_5720.jpg",
+      "to": "public/images/diogene/IMG_5720.jpg",
+      "category": "diogene"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_5749.jpg",
+      "to": "public/images/classique/IMG_5749.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_5750.jpg",
+      "to": "public/images/diogene/IMG_5750.jpg",
+      "category": "diogene"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_5751.jpg",
+      "to": "public/images/classique/IMG_5751.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_5774.jpg",
+      "to": "public/images/classique/IMG_5774.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6037.jpg",
+      "to": "public/images/diogene/IMG_6037.jpg",
+      "category": "diogene"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6065.jpg",
+      "to": "public/images/objets-valeur/IMG_6065.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6067.jpg",
+      "to": "public/images/classique/IMG_6067.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6082.jpg",
+      "to": "public/images/classique/IMG_6082.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6083.jpg",
+      "to": "public/images/diogene/IMG_6083.jpg",
+      "category": "diogene"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6089.jpg",
+      "to": "public/images/classique/IMG_6089.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6216.jpg",
+      "to": "public/images/objets-valeur/IMG_6216.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6267.jpg",
+      "to": "public/images/classique/IMG_6267.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6273.jpg",
+      "to": "public/images/objets-valeur/IMG_6273.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6275.jpg",
+      "to": "public/images/objets-valeur/IMG_6275.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6281(1).jpg",
+      "to": "public/images/objets-valeur/IMG_6281(1).jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6281.jpg",
+      "to": "public/images/objets-valeur/IMG_6281.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6282(1).jpg",
+      "to": "public/images/objets-valeur/IMG_6282(1).jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6282.jpg",
+      "to": "public/images/objets-valeur/IMG_6282.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6283.jpg",
+      "to": "public/images/classique/IMG_6283.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6284.jpg",
+      "to": "public/images/classique/IMG_6284.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6285(1).jpg",
+      "to": "public/images/objets-valeur/IMG_6285(1).jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6285.jpg",
+      "to": "public/images/objets-valeur/IMG_6285.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6286.jpg",
+      "to": "public/images/classique/IMG_6286.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6290.jpg",
+      "to": "public/images/objets-valeur/IMG_6290.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6291.jpg",
+      "to": "public/images/objets-valeur/IMG_6291.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6294.jpg",
+      "to": "public/images/objets-valeur/IMG_6294.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6295.jpg",
+      "to": "public/images/objets-valeur/IMG_6295.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6301.jpg",
+      "to": "public/images/objets-valeur/IMG_6301.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6304.jpg",
+      "to": "public/images/classique/IMG_6304.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6308.jpg",
+      "to": "public/images/objets-valeur/IMG_6308.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6309.jpg",
+      "to": "public/images/classique/IMG_6309.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6313.jpg",
+      "to": "public/images/classique/IMG_6313.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6315.jpg",
+      "to": "public/images/objets-valeur/IMG_6315.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6316.jpg",
+      "to": "public/images/objets-valeur/IMG_6316.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6320.jpg",
+      "to": "public/images/objets-valeur/IMG_6320.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6325.jpg",
+      "to": "public/images/classique/IMG_6325.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6382.jpg",
+      "to": "public/images/diogene/IMG_6382.jpg",
+      "category": "diogene"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6383.jpg",
+      "to": "public/images/diogene/IMG_6383.jpg",
+      "category": "diogene"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6384.jpg",
+      "to": "public/images/classique/IMG_6384.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6385.jpg",
+      "to": "public/images/classique/IMG_6385.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6386.jpg",
+      "to": "public/images/classique/IMG_6386.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6513.jpg",
+      "to": "public/images/classique/IMG_6513.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6528.jpg",
+      "to": "public/images/classique/IMG_6528.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6530.jpg",
+      "to": "public/images/classique/IMG_6530.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6531.jpg",
+      "to": "public/images/classique/IMG_6531.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6532.jpg",
+      "to": "public/images/classique/IMG_6532.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6533.jpg",
+      "to": "public/images/classique/IMG_6533.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6542.jpg",
+      "to": "public/images/classique/IMG_6542.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6548.jpg",
+      "to": "public/images/classique/IMG_6548.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6595.jpg",
+      "to": "public/images/classique/IMG_6595.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_659A7061-4974-497F-B001-D2582A9BF0A0.jpg",
+      "to": "public/images/classique/IMG_659A7061-4974-497F-B001-D2582A9BF0A0.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6615.jpg",
+      "to": "public/images/objets-valeur/IMG_6615.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_94B927F4-A2CC-41F3-B32F-9D334510F32B.jpg",
+      "to": "public/images/classique/IMG_94B927F4-A2CC-41F3-B32F-9D334510F32B.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_C3A10DC4-1271-4D74-83BB-F2EB2AF385CD.jpg",
+      "to": "public/images/objets-valeur/IMG_C3A10DC4-1271-4D74-83BB-F2EB2AF385CD.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_5720.jpg",
+      "to": "public/images/diogene/IMG_5720.jpg",
+      "category": "diogene"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_5750.jpg",
+      "to": "public/images/diogene/IMG_5750.jpg",
+      "category": "diogene"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6065.jpg",
+      "to": "public/images/objets-valeur/IMG_6065.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6227.jpg",
+      "to": "public/images/hero/IMG_6227.jpg",
+      "category": "hero"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6273.jpg",
+      "to": "public/images/objets-valeur/IMG_6273.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6275.jpg",
+      "to": "public/images/objets-valeur/IMG_6275.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6281(1).jpg",
+      "to": "public/images/objets-valeur/IMG_6281(1).jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6281.jpg",
+      "to": "public/images/objets-valeur/IMG_6281.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6282.jpg",
+      "to": "public/images/objets-valeur/IMG_6282.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6285(1).jpg",
+      "to": "public/images/objets-valeur/IMG_6285(1).jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6290.jpg",
+      "to": "public/images/objets-valeur/IMG_6290.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6291.jpg",
+      "to": "public/images/objets-valeur/IMG_6291.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6294.jpg",
+      "to": "public/images/objets-valeur/IMG_6294.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6308.jpg",
+      "to": "public/images/objets-valeur/IMG_6308.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6316.jpg",
+      "to": "public/images/objets-valeur/IMG_6316.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6320.jpg",
+      "to": "public/images/objets-valeur/IMG_6320.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6562.jpg",
+      "to": "public/images/objets-valeur/IMG_6562.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_5750.jpg",
+      "to": "public/images/diogene/IMG_5750.jpg",
+      "category": "diogene"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6067.jpg",
+      "to": "public/images/classique/IMG_6067.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6089.jpg",
+      "to": "public/images/classique/IMG_6089.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6227.jpg",
+      "to": "public/images/hero/IMG_6227.jpg",
+      "category": "hero"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6304.jpg",
+      "to": "public/images/classique/IMG_6304.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6313.jpg",
+      "to": "public/images/classique/IMG_6313.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6533.jpg",
+      "to": "public/images/classique/IMG_6533.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6542.jpg",
+      "to": "public/images/classique/IMG_6542.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6571.jpg",
+      "to": "public/images/classique/IMG_6571.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6595.jpg",
+      "to": "public/images/classique/IMG_6595.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6596.jpg",
+      "to": "public/images/classique/IMG_6596.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_5749.jpg",
+      "to": "public/images/classique/IMG_5749.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_5774.jpg",
+      "to": "public/images/classique/IMG_5774.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6067.jpg",
+      "to": "public/images/classique/IMG_6067.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6089.jpg",
+      "to": "public/images/classique/IMG_6089.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6216.jpg",
+      "to": "public/images/objets-valeur/IMG_6216.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6267.jpg",
+      "to": "public/images/classique/IMG_6267.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6275.jpg",
+      "to": "public/images/objets-valeur/IMG_6275.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6282(1).jpg",
+      "to": "public/images/objets-valeur/IMG_6282(1).jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6282.jpg",
+      "to": "public/images/objets-valeur/IMG_6282.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6283.jpg",
+      "to": "public/images/classique/IMG_6283.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6284.jpg",
+      "to": "public/images/classique/IMG_6284.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6285.jpg",
+      "to": "public/images/objets-valeur/IMG_6285.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6286.jpg",
+      "to": "public/images/classique/IMG_6286.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6290.jpg",
+      "to": "public/images/objets-valeur/IMG_6290.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6301.jpg",
+      "to": "public/images/objets-valeur/IMG_6301.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6315.jpg",
+      "to": "public/images/objets-valeur/IMG_6315.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6384.jpg",
+      "to": "public/images/classique/IMG_6384.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6385.jpg",
+      "to": "public/images/classique/IMG_6385.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6386.jpg",
+      "to": "public/images/classique/IMG_6386.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6513.jpg",
+      "to": "public/images/classique/IMG_6513.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6530.jpg",
+      "to": "public/images/classique/IMG_6530.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6562.jpg",
+      "to": "public/images/objets-valeur/IMG_6562.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6596.jpg",
+      "to": "public/images/classique/IMG_6596.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_659A7061-4974-497F-B001-D2582A9BF0A0.jpg",
+      "to": "public/images/classique/IMG_659A7061-4974-497F-B001-D2582A9BF0A0.jpg",
+      "category": "classique"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6615.jpg",
+      "to": "public/images/objets-valeur/IMG_6615.jpg",
+      "category": "objets-valeur"
+    },
+    {
+      "from": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_C3A10DC4-1271-4D74-83BB-F2EB2AF385CD.jpg",
+      "to": "public/images/objets-valeur/IMG_C3A10DC4-1271-4D74-83BB-F2EB2AF385CD.jpg",
+      "category": "objets-valeur"
+    }
+  ],
+  "errors": [],
+  "total_moved": 112,
+  "total_errors": 0
+}

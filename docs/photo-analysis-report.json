@@ -1,0 +1,1447 @@
+{
+  "summary": {
+    "total": 142,
+    "correct_count": 30,
+    "incorrect_count": 112,
+    "by_current_category": {
+      "hero": 59,
+      "classique": 32,
+      "objets-valeur": 21,
+      "diogene": 30
+    },
+    "by_suggested_category": {
+      "diogene": 14,
+      "classique": 69,
+      "objets-valeur": 56,
+      "hero": 3
+    },
+    "by_clearance_type": {
+      "indetermine": 49,
+      "maison/appartement": 50,
+      "objets": 40,
+      "camion/transport": 3
+    }
+  },
+  "photos": [
+    {
+      "path": "/images/hero/IMG_0FF3D6C9-0557-4445-8221-CE42C1E1FFA6.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_0FF3D6C9-0557-4445-8221-CE42C1E1FFA6.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A pile of old boxes with writing on them",
+      "correct_category": "diogene",
+      "current_category_ok": false,
+      "suggested_category": "diogene"
+    },
+    {
+      "path": "/images/hero/IMG_4C3F2B65-B56D-4BC5-B860-4AADD3DA2D3B.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_4C3F2B65-B56D-4BC5-B860-4AADD3DA2D3B.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A person holding a yellow box with a blue and white plane on it",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_5719.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_5719.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_5720.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_5720.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A pile of junk and junks",
+      "correct_category": "diogene",
+      "current_category_ok": false,
+      "suggested_category": "diogene"
+    },
+    {
+      "path": "/images/hero/IMG_5749.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_5749.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A box of tools",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_5750.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_5750.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A pile of junk",
+      "correct_category": "diogene",
+      "current_category_ok": false,
+      "suggested_category": "diogene"
+    },
+    {
+      "path": "/images/hero/IMG_5751.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_5751.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A machine is sitting in a room with many items",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_5774.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_5774.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A messy room with a lot of cls and cls",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6037.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6037.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A pile of junk",
+      "correct_category": "diogene",
+      "current_category_ok": false,
+      "suggested_category": "diogene"
+    },
+    {
+      "path": "/images/hero/IMG_6065.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6065.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A piano sitting on a wooden bench in a kitchen",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6067.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6067.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A shelf full of old books",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6082.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6082.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A messy room with lots of clutter and clutters",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6083.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6083.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A pile of boxes and other items in a messy room",
+      "correct_category": "diogene",
+      "current_category_ok": false,
+      "suggested_category": "diogene"
+    },
+    {
+      "path": "/images/hero/IMG_6089.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6089.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A room with a bunch of boxes and shelves",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6216.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6216.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A person holding a plate with a painting on it",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6227.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6227.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "camion/transport",
+      "main_subject": "A hand holding a matchbox with a fire truck",
+      "correct_category": "hero",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/hero/IMG_6267.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6267.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A couch with pillows and pillows on it",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6273.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6273.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A statue of a person sitting on a table",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6275.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6275.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A person holding a statue on a table",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6281(1).jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6281(1).jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting of a woman in a dress",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6281.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6281.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting of a woman in a dress",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6282(1).jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6282(1).jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting hanging on the wall",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6282.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6282.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting hanging on the wall",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6283.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6283.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A picture of a woman in a dress hanging on a wall",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6284.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6284.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A lamp with a bird on it",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6285(1).jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6285(1).jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting of a castle in a forest",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6285.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6285.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting of a castle in a forest",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6286.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6286.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A chandel hanging from a ceiling",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6290.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6290.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A table with a lamp and a vase on it",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6291.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6291.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A silver tray with a silver handle",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6294.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6294.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A corner cabinet with a clock and a lamp",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6295.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6295.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A vase on a table",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6301.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6301.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A rug hanging on the wall",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6304.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6304.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A display of pottery items",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6308.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6308.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A display of ancient artifacts in a museum",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6309.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6309.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A display of pottery items in a glass case",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6313.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6313.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A model of a ship",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6315.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6315.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting on a wall",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6316.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6316.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting on a wall with a painting of a woman",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6320.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6320.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A painting of a boat in a room",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_6325.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6325.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A drawing of a woman sitting on a chair",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6382.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6382.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A pile of boxes and boxes in a room",
+      "correct_category": "diogene",
+      "current_category_ok": false,
+      "suggested_category": "diogene"
+    },
+    {
+      "path": "/images/hero/IMG_6383.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6383.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A pile of clothes and other items in a room",
+      "correct_category": "diogene",
+      "current_category_ok": false,
+      "suggested_category": "diogene"
+    },
+    {
+      "path": "/images/hero/IMG_6384.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6384.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A messy kitchen with a lot of cls",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6385.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6385.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A messy kitchen with a table and a refrigerator",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6386.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6386.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A messy living room with a messy couch",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6513.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6513.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A dining room with a table and chairs",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6528.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6528.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6530.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6530.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A living room with a lot of clutter",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6531.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6531.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "Two chairs with floral patterned cushions",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6532.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6532.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A couch with a colorful floral design on it",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6533.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6533.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A kitchen with a stove and a table",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6542.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6542.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A room with a lot of junks and junks",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6548.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6548.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A kitchen with a tv on the wall",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6595.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6595.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A bed with a green cover",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_659A7061-4974-497F-B001-D2582A9BF0A0.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_659A7061-4974-497F-B001-D2582A9BF0A0.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A book with a picture of a man and a dog",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_6615.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_6615.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A clay vase",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/hero/IMG_94B927F4-A2CC-41F3-B32F-9D334510F32B.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_94B927F4-A2CC-41F3-B32F-9D334510F32B.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A box with a bunch of airplanes on it",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/hero/IMG_C3A10DC4-1271-4D74-83BB-F2EB2AF385CD.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/hero/IMG_C3A10DC4-1271-4D74-83BB-F2EB2AF385CD.jpg",
+      "current_category": "hero",
+      "type_of_clearance": "objets",
+      "main_subject": "A person holding a plate with a painting on it",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_5719.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_5719.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/classique/IMG_5720.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_5720.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A pile of junk and junks",
+      "correct_category": "diogene",
+      "current_category_ok": false,
+      "suggested_category": "diogene"
+    },
+    {
+      "path": "/images/classique/IMG_5750.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_5750.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A pile of junk",
+      "correct_category": "diogene",
+      "current_category_ok": false,
+      "suggested_category": "diogene"
+    },
+    {
+      "path": "/images/classique/IMG_5751.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_5751.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A machine is sitting in a room with many items",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/classique/IMG_6065.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6065.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A piano sitting on a wooden bench in a kitchen",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_6082.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6082.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A messy room with lots of clutter and clutters",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/classique/IMG_6227.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6227.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "camion/transport",
+      "main_subject": "A hand holding a matchbox with a fire truck",
+      "correct_category": "hero",
+      "current_category_ok": false,
+      "suggested_category": "hero"
+    },
+    {
+      "path": "/images/classique/IMG_6273.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6273.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "objets",
+      "main_subject": "A statue of a person sitting on a table",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_6275.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6275.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "objets",
+      "main_subject": "A person holding a statue on a table",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_6281(1).jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6281(1).jpg",
+      "current_category": "classique",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting of a woman in a dress",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_6281.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6281.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting of a woman in a dress",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_6282.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6282.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting hanging on the wall",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_6284.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6284.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A lamp with a bird on it",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/classique/IMG_6285(1).jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6285(1).jpg",
+      "current_category": "classique",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting of a castle in a forest",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_6286.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6286.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A chandel hanging from a ceiling",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/classique/IMG_6290.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6290.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "objets",
+      "main_subject": "A table with a lamp and a vase on it",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_6291.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6291.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A silver tray with a silver handle",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_6294.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6294.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "objets",
+      "main_subject": "A corner cabinet with a clock and a lamp",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_6308.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6308.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A display of ancient artifacts in a museum",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_6316.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6316.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting on a wall with a painting of a woman",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_6320.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6320.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A painting of a boat in a room",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_6325.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6325.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A drawing of a woman sitting on a chair",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/classique/IMG_6385.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6385.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A messy kitchen with a table and a refrigerator",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/classique/IMG_6528.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6528.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy messy",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/classique/IMG_6530.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6530.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A living room with a lot of clutter",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/classique/IMG_6531.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6531.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "indetermine",
+      "main_subject": "Two chairs with floral patterned cushions",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/classique/IMG_6532.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6532.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A couch with a colorful floral design on it",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/classique/IMG_6542.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6542.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A room with a lot of junks and junks",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/classique/IMG_6548.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6548.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A kitchen with a tv on the wall",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/classique/IMG_6562.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6562.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A kitchen with a wooden cabinet and a checkered floor",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/classique/IMG_6571.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6571.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A couch with a floral pattern on it",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/classique/IMG_6596.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/classique/IMG_6596.jpg",
+      "current_category": "classique",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A living room with a television and a chair",
+      "correct_category": "classique",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/objets-valeur/IMG_5750.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_5750.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A pile of junk",
+      "correct_category": "diogene",
+      "current_category_ok": false,
+      "suggested_category": "diogene"
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6067.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6067.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A shelf full of old books",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6089.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6089.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A room with a bunch of boxes and shelves",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6216.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6216.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "objets",
+      "main_subject": "A person holding a plate with a painting on it",
+      "correct_category": "objets-valeur",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6227.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6227.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "camion/transport",
+      "main_subject": "A hand holding a matchbox with a fire truck",
+      "correct_category": "hero",
+      "current_category_ok": false,
+      "suggested_category": "hero"
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6285(1).jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6285(1).jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting of a castle in a forest",
+      "correct_category": "objets-valeur",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6285.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6285.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting of a castle in a forest",
+      "correct_category": "objets-valeur",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6291.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6291.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A silver tray with a silver handle",
+      "correct_category": "objets-valeur",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6295.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6295.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "objets",
+      "main_subject": "A vase on a table",
+      "correct_category": "objets-valeur",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6301.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6301.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A rug hanging on the wall",
+      "correct_category": "objets-valeur",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6304.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6304.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A display of pottery items",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6308.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6308.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A display of ancient artifacts in a museum",
+      "correct_category": "objets-valeur",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6313.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6313.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A model of a ship",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6315.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6315.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting on a wall",
+      "correct_category": "objets-valeur",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6316.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6316.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting on a wall with a painting of a woman",
+      "correct_category": "objets-valeur",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6533.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6533.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A kitchen with a stove and a table",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6542.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6542.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A room with a lot of junks and junks",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6562.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6562.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A kitchen with a wooden cabinet and a checkered floor",
+      "correct_category": "objets-valeur",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6571.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6571.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A couch with a floral pattern on it",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6595.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6595.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A bed with a green cover",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/objets-valeur/IMG_6596.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/objets-valeur/IMG_6596.jpg",
+      "current_category": "objets-valeur",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A living room with a television and a chair",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_0FF3D6C9-0557-4445-8221-CE42C1E1FFA6.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_0FF3D6C9-0557-4445-8221-CE42C1E1FFA6.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A pile of old boxes with writing on them",
+      "correct_category": "diogene",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/diogene/IMG_5749.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_5749.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A box of tools",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_5774.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_5774.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A messy room with a lot of cls and cls",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_6067.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6067.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A shelf full of old books",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_6083.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6083.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A pile of boxes and other items in a messy room",
+      "correct_category": "diogene",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/diogene/IMG_6089.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6089.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A room with a bunch of boxes and shelves",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_6216.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6216.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "objets",
+      "main_subject": "A person holding a plate with a painting on it",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/diogene/IMG_6267.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6267.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A couch with pillows and pillows on it",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_6275.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6275.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "objets",
+      "main_subject": "A person holding a statue on a table",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/diogene/IMG_6282(1).jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6282(1).jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting hanging on the wall",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/diogene/IMG_6282.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6282.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting hanging on the wall",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/diogene/IMG_6283.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6283.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A picture of a woman in a dress hanging on a wall",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_6284.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6284.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A lamp with a bird on it",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_6285.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6285.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting of a castle in a forest",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/diogene/IMG_6286.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6286.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A chandel hanging from a ceiling",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_6290.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6290.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "objets",
+      "main_subject": "A table with a lamp and a vase on it",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/diogene/IMG_6301.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6301.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A rug hanging on the wall",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/diogene/IMG_6315.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6315.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "objets",
+      "main_subject": "A painting on a wall",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/diogene/IMG_6382.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6382.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A pile of boxes and boxes in a room",
+      "correct_category": "diogene",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/diogene/IMG_6383.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6383.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A pile of clothes and other items in a room",
+      "correct_category": "diogene",
+      "current_category_ok": true,
+      "suggested_category": null
+    },
+    {
+      "path": "/images/diogene/IMG_6384.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6384.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A messy kitchen with a lot of cls",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_6385.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6385.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A messy kitchen with a table and a refrigerator",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_6386.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6386.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A messy living room with a messy couch",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_6513.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6513.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A dining room with a table and chairs",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_6530.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6530.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A living room with a lot of clutter",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_6562.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6562.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A kitchen with a wooden cabinet and a checkered floor",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/diogene/IMG_6596.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6596.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "maison/appartement",
+      "main_subject": "A living room with a television and a chair",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_659A7061-4974-497F-B001-D2582A9BF0A0.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_659A7061-4974-497F-B001-D2582A9BF0A0.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "indetermine",
+      "main_subject": "A book with a picture of a man and a dog",
+      "correct_category": "classique",
+      "current_category_ok": false,
+      "suggested_category": "classique"
+    },
+    {
+      "path": "/images/diogene/IMG_6615.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_6615.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "objets",
+      "main_subject": "A clay vase",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    },
+    {
+      "path": "/images/diogene/IMG_C3A10DC4-1271-4D74-83BB-F2EB2AF385CD.jpg",
+      "full_path": "/Users/codezer0/Documents/git/100k/debarras-power-pro/public/images/diogene/IMG_C3A10DC4-1271-4D74-83BB-F2EB2AF385CD.jpg",
+      "current_category": "diogene",
+      "type_of_clearance": "objets",
+      "main_subject": "A person holding a plate with a painting on it",
+      "correct_category": "objets-valeur",
+      "current_category_ok": false,
+      "suggested_category": "objets-valeur"
+    }
+  ]
+}
