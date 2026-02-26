@@ -70,38 +70,30 @@ const faqSchema = {
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "DebarrasPower",
-  description: "Service professionnel de débarras dans le Var (83). Maisons, appartements, caves, greniers, bureaux. Devis gratuit, intervention rapide, recyclage responsable.",
-  url: "https://debarraspower.com",
-  telephone: "+33659637006",
-  email: "contact@debarraspower.com",
-  areaServed: {
+  "name": "TOITURE PACA",
+  "description": "Artisan couvreur à Toulon. Charpente, couverture, réparation, entretien et diagnostic toiture dans le Var et PACA.",
+  "url": "https://www.ay-toiture.fr",
+  "telephone": "+33604053510",
+  "email": "director@ay-toiture.fr",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "133 Rue du Jeu de Paume",
+    "addressLocality": "Toulon",
+    "postalCode": "83200",
+    "addressCountry": "FR"
+  },
+  "areaServed": {
     "@type": "AdministrativeArea",
-    name: "Var (83), Provence-Alpes-Côte d'Azur, France",
+    "name": "Var (83), PACA, France"
   },
-  priceRange: "€€",
-  openingHoursSpecification: {
+  "priceRange": "€€",
+  "openingHoursSpecification": {
     "@type": "OpeningHoursSpecification",
-    dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-    opens: "08:00",
-    closes: "19:00",
-  },
-  aggregateRating: {
-    "@type": "AggregateRating",
-    ratingValue: "4.9",
-    reviewCount: "87",
-  },
-  hasOfferCatalog: {
-    "@type": "OfferCatalog",
-    name: "Services de débarras",
-    itemListElement: [
-      { "@type": "Offer", itemOffered: { "@type": "Service", name: "Débarras Maisons & Appartements" } },
-      { "@type": "Offer", itemOffered: { "@type": "Service", name: "Débarras Caves, Greniers & Garages" } },
-      { "@type": "Offer", itemOffered: { "@type": "Service", name: "Débarras Après Décès" } },
-      { "@type": "Offer", itemOffered: { "@type": "Service", name: "Débarras Bureaux & Locaux Professionnels" } },
-      { "@type": "Offer", itemOffered: { "@type": "Service", name: "Enlèvement d'Encombrants" } },
-    ],
-  },
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    "opens": "08:00",
+    "closes": "19:00"
+  }
+  // Note: No aggregateRating - Google Business Profile does not exist yet
 };
 
 const Index = () => {
