@@ -1,6 +1,6 @@
 import { useParams, Navigate } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
-import { Phone, ArrowRight, MapPin, Star, Shield, Recycle, Home, Warehouse, Heart, Building2, Factory, Truck, CheckCircle } from "lucide-react";
+import { Phone, ArrowRight, MapPin, Star, Shield, Home, Wrench, Droplets, Hammer, Sun, Wind, CheckCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Header from "@/components/Header";
 import FAQSection from "@/components/FAQSection";
@@ -8,15 +8,15 @@ import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
 import { getCityBySlug, cities as allCities } from "@/data/cities";
 import { Link } from "react-router-dom";
-import heroImage from "@/assets/hero-debarras.jpg";
+import heroImage from "@/assets/hero-toiture.jpg";
 
 const services = [
-  { icon: Home, title: "Débarras Maisons & Appartements", description: "Vidage complet ou partiel avant déménagement, vente ou rénovation." },
-  { icon: Warehouse, title: "Caves, Greniers & Garages", description: "Libérez vos espaces de stockage encombrés rapidement." },
-  { icon: Heart, title: "Débarras Après Décès", description: "Accompagnement respectueux et discret pour vider un logement." },
-  { icon: Building2, title: "Bureaux & Locaux Professionnels", description: "Débarras rapide pour minimiser l'interruption de votre activité." },
-  { icon: Factory, title: "Entreprises & Entrepôts", description: "Évacuation de gros volumes et matériel professionnel." },
-  { icon: Truck, title: "Enlèvement d'Encombrants", description: "Collecte et recyclage de meubles et objets volumineux." },
+  { icon: Home, title: "Couverture & Charpente", description: "Installation, réparation et remplacement de toiture pour tous types de maisons." },
+  { icon: Wrench, title: "Réparation de Fuites", description: "Diagnostic et réparation rapide des infiltrations et dégâts des eaux." },
+  { icon: Hammer, title: "Rénovation Complète", description: "Restauration de toitures anciennes avec matériaux adaptés à votre région." },
+  { icon: Sun, title: "Toiture Terrasse", description: "Étanchéité, isolation et protection pour toitures plates et terrasses." },
+  { icon: Wind, title: "Zinguerie & Gouttières", description: "Installation et rénovation de gouttières, chéneaux et éléments de zinc." },
+  { icon: Droplets, title: "Entretien & Démoussage", description: "Nettoyage, traitement et protection pour prolonger la durée de vie de votre toiture." },
 ];
 
 const advantages = [

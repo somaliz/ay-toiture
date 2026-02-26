@@ -1,4 +1,4 @@
-# DebarrasPower - Professional Clearing Service Website
+# TOITURE PACA - Roofing Services Website
 
 > **Project Type**: Small Business Website (Local Service Business in France)
 > **Language**: French (Primary), English (Development)
@@ -6,27 +6,28 @@
 
 ## Business Overview
 
-**DebarrasPower** is a professional clearing/dé débarras service based in the Var department (83), Provence-Alpes-Côte d'Azur, France. The business provides professional clearing services for homes, apartments, offices, and commercial spaces.
+**TOITURE PACA** is a professional roofing (couverture) and carpentry (charpente) service based in Toulon, Var department (83), Provence-Alpes-Côte d'Azur, France. The business provides roofing services for residential and commercial properties.
 
 ### Key Business Details
-- **Phone**: +33 6 59 63 70 06
-- **Email**: contact@debarraspower.com
-- **Website**: https://debarraspower.com
-- **Service Area**: Var department (83), France
-- **Hours**: Monday-Saturday, 8am-7pm
-- **Google Rating**: 4.9/5 (87 reviews)
+- **Phone**: 06 04 05 35 10
+- **Email**: director@ay-toiture.fr
+- **Location**: 133 Rue du Jeu de Paume, 83200 Toulon, France
+- **Service Area**: Var department (83) and PACA region
 - **Business Model**: Lead generation through phone/email contact
+- **Services**: Roof installation, renovation, repair, and maintenance
 
 ### Core Services
-1. House & Apartment Clearing (Débarras Maisons & Appartements)
-2. Storage Space Clearing (Caves, Greniers & Garages)
-3. Post-Death Clearing (Débarras Après Décès)
-4. Office & Commercial Clearing (Bureaux & Locaux Professionnels)
-5. Industrial & Warehouse Clearing (Entreprises & Entrepôts)
-6. Bulky Item Collection (Enlèvement d'Encombrants)
+1. Charpente (Roof Framing/Carpentry)
+2. Couverture (Roofing - new & renovation)
+3. Inspection toiture (Roof inspection)
+4. Diagnostic toiture (Roof diagnostics)
+5. Réparation de fuites (Leak repair)
+6. Remplacement de tuiles (Tile replacement)
+7. Entretien toiture (Roof maintenance)
+8. Devis gratuit (Free quotes)
 
 ### Geographic Coverage
-23+ cities across Var including: Toulon, Hyères, Fréjus, Draguignan, Brignoles, Saint-Raphaël, La Seyne-sur-Mer, and more.
+Var department (83) and PACA region, including: Toulon, Hyères, Fréjus, Draguignan, Brignoles, Saint-Raphaël, La Seyne-sur-Mer, and surrounding areas.
 
 ## Technology Stack
 
@@ -88,7 +89,7 @@ src/
 - Hero section with CTA
 - Services overview
 - About/Trust signals
-- Gallery showcase (6 images)
+- Gallery showcase (roofing projects)
 - Geographic zones covered
 - FAQ section (with Schema.org FAQPage)
 - Contact form
@@ -138,7 +139,7 @@ Dynamic pages for each serviced city with:
 1. **Structured Data (JSON-LD)**
    - LocalBusiness schema
    - FAQPage schema
-   - AggregateRating schema
+   - Service schema
 
 2. **Meta Tags**
    - French language content
@@ -166,8 +167,8 @@ Dynamic pages for each serviced city with:
 ### User Experience
 - **Phone-first approach** - Prominent CTA buttons
 - **Quick contact** - Click-to-call functionality
-- **Visual trust signals** - Ratings, insurance, certifications
-- **Gallery showcase** - Examples of past work
+- **Visual trust signals** - Gallery of completed projects
+- **Service showcase** - Examples of roofing work
 - **FAQ section** - Common questions answered
 - **Mobile optimized** - Responsive hamburger menu
 
@@ -207,11 +208,11 @@ npm run test            # Run Vitest tests
 - Avoid overly promotional language
 
 ### Brand Positioning
-- Professional clearing service
-- Fast and reliable
-- Environmentally responsible (recycling, donations)
-- Insured and certified
-- Local expertise in Var department
+- Professional roofing service
+- Quality craftsmanship
+- Reliable and timely service
+- Free quotes
+- Local expertise in Var and PACA region
 
 ## Important Considerations
 
@@ -225,13 +226,7 @@ npm run test            # Run Vitest tests
 - French business regulations
 - GDPR compliance (contact form)
 - Professional liability insurance
-- Licensed waste disposal facilities
-
-### Sustainability Focus
-- Up to 80% of items recycled
-- Donations to charities (Emmaüs, Secours Populaire)
-- Professional waste disposal
-- Eco-responsible practices
+- Licensed roofing contractor
 
 ### Performance Targets
 - Lighthouse score: 90+ across all categories
@@ -244,13 +239,13 @@ npm run test            # Run Vitest tests
 ### Potential Features
 - Online quote request form (advanced)
 - Appointment scheduling system
+- Project gallery with before/after photos
 - Customer testimonials/reviews display
-- Before/after gallery
 - Live chat integration
 - SMS notifications
 
 ### SEO Opportunities
-- Blog content (clearing tips, local guides)
+- Blog content (roofing tips, maintenance guides)
 - Video content (work examples)
 - Customer case studies
 - Local partnerships/links
@@ -290,8 +285,8 @@ npm run test            # Run Vitest tests
 ## Maintenance
 
 ### Regular Tasks
-- Update city data as service area expands
-- Refresh gallery images quarterly
+- Update service area as coverage expands
+- Refresh gallery images with new projects
 - Update FAQ based on customer inquiries
 - Monitor SEO performance
 - Check for broken links quarterly
@@ -323,11 +318,11 @@ npm run test            # Run Vitest tests
 
 For project-related questions or technical issues:
 - Technical support via GitHub issues
-- Business inquiries: contact@debarraspower.com
-- Phone: +33 6 59 63 70 06
+- Business inquiries: director@ay-toiture.fr
+- Phone: 06 04 05 35 10
 
 ---
 
-**Last Updated**: 2026-02-24
+**Last Updated**: 2026-02-26
 **Version**: 1.0.0
 **Maintained by**: Development Team

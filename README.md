@@ -1,121 +1,39 @@
-# DebarrasPower - Site Officiel
+# TOITURE PACA - Site Vitrine
 
-Site web professionnel pour DebarrasPower, service de débarras dans le Var (83).
+Site vitrine pour TOITURE PACA, artisan couvreur dans le Var (83).
 
-## 🏢 À Propos
+## Business Information
 
-DebarrasPower est un service professionnel de débarras et enlèvement d'encombrants intervenant dans tout le département du Var (83).
+- **Brand:** TOITURE PACA
+- **Phone:** 06 04 05 35 10
+- **Email:** director@ay-toiture.fr
+- **Location:** 133 Rue du Jeu de Paume, 83200 Toulon
+- **Service Area:** Var (83) and PACA region
 
-- **Zone d'intervention** : Toulon, Hyères, Fréjus, Draguignan, et 23+ autres villes
-- **Services** : Débarras de maisons, appartements, caves, bureaux, locaux professionnels
-- **Valorisation** : Tri, réemploi, recyclage jusqu'à 80% des objets
-- **Rating** : 4.9/5 sur Google (87 avis vérifiés)
+## Services
 
-## 🚀 Technologies
+- Charpente
+- Couverture (neuf & rénovation)
+- Inspection toiture
+- Diagnostic toiture
+- Réparation de fuites
+- Remplacement de tuiles
+- Entretien toiture
+- Devis gratuit
 
-- **Framework** : React 18.3.1 + TypeScript
-- **Build Tool** : Vite 5.4.19
-- **Styling** : Tailwind CSS 3.4.17
-- **Components** : shadcn/ui (Radix UI primitives)
-- **Routing** : React Router DOM 6.30.1
-- **Testing** :
-  - Vitest pour les tests unitaires
-  - Playwright pour les tests E2E
-  - Testing Library pour React
-
-## 📦 Installation
+## Development
 
 ```bash
-# Cloner le repository
-git clone <repository-url>
-cd debarras-power-pro
-
-# Installer les dépendances
-npm install
-
-# Démarrer le serveur de développement
-npm run dev
+npm install      # Install dependencies
+npm run dev      # Start dev server (http://localhost:5173)
+npm run build    # Production build
+npm run preview  # Preview production build
 ```
 
-Le site sera disponible sur http://localhost:8080
+## Tech Stack
 
-## 🧪 Tests
-
-```bash
-# Tests unitaires
-npm test
-
-# Tests E2E avec Playwright
-npm run test:e2e
-
-# Playwright UI mode
-npm run test:e2e:ui
-
-# Installer les browsers Playwright
-npm run test:e2e:install
-```
-
-## 🏗️ Build
-
-```bash
-# Build de production
-npm run build
-
-# Preview du build de production
-npm run preview
-```
-
-## 📁 Structure du Projet
-
-```
-debarras-power-pro/
-├── public/              # Assets statiques
-│   └── images/         # Photos organisées par catégorie
-├── src/
-│   ├── components/     # Composants React
-│   ├── data/          # Données (photos, témoignages, etc.)
-│   ├── lib/           # Utilitaires
-│   └── pages/         # Pages de l'application
-├── docs/              # Documentation et plans
-├── playwright.config.ts
-├── vite.config.ts
-└── package.json
-```
-
-## 🎨 Sections du Site
-
-- **Hero** : Présentation principale avec appel à l'action
-- **Features** : Points forts (zone d'intervention, services, recyclage)
-- **Services** : Détail des services de débarras
-- **Process** : Processus en 4 étapes
-- **Valorisation** : Tri, réemploi, partenaires experts
-- **Gallery** : Photos de réalisations (classique, valeurs, Diogène)
-- **Testimonials** : Avis clients Google (4.9/5)
-- **Pricing** : 3 formules (Gratuit, Payé, Classique)
-- **Zones** : Villes desservies dans le Var
-- **FAQ** : Questions fréquentes
-- **Contact** : Formulaire de contact
-
-## 📄 Documentation
-
-- `CLAUDE.md` - Documentation complète du projet
-- `AGENTS.md` - Guidelines pour les agents AI
-- `PROJECT_REVIEW.md` - Analyse comparative et améliorations
-- `docs/plans/` - Plans de design et implémentation
-
-## 🎯 Performance & SEO
-
-- Schema.org structured data (LocalBusiness, Service, FAQ, ImageObject)
-- Optimisation des images (WebP + lazy loading)
-- Tests E2E sur 5 breakpoints (mobile à desktop)
-- Lighthouse Performance target: 90+
-
-## 📞 Contact
-
-- **Téléphone** : +33 6 59 63 70 06
-- **Email** : contact@debarraspower.com
-- **Google Reviews** : 4.9/5 (87 avis)
-
-## 📝 Licence
-
-Propriété de DebarrasPower © 2026
+- React 18.3.1 + TypeScript
+- Vite 5.4.19
+- Tailwind CSS 3.4.17
+- shadcn/ui + Radix UI
+- React Router DOM 6.30.1
