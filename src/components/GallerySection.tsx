@@ -7,12 +7,12 @@ import gallery6 from "@/assets/gallery-6.jpeg";
 import { Camera } from "lucide-react";
 
 const photos = [
-  { src: gallery1, alt: "Débarras complet d'une pièce encombrée dans le Var" },
-  { src: gallery2, alt: "Évacuation de meubles anciens lors d'un débarras" },
-  { src: gallery3, alt: "Débarras salle à manger avant intervention" },
-  { src: gallery4, alt: "Débarras appartement avec vue mer dans le Var" },
-  { src: gallery5, alt: "Mobilier ancien à débarrasser" },
-  { src: gallery6, alt: "Fauteuils à évacuer lors d'un vide-maison" },
+  { src: gallery1, alt: "Réalisation de charpente bois dans le Var" },
+  { src: gallery2, alt: "Installation de toiture tuiles dans le Var" },
+  { src: gallery3, alt: "Réparation toiture avant intervention" },
+  { src: gallery4, alt: "Rénovation toiture avec vue mer dans le Var" },
+  { src: gallery5, alt: "Charpente métallique pour toiture" },
+  { src: gallery6, alt: "Zinguerie et gouttières rénovées" },
 ];
 
 const GallerySection = () => {
@@ -27,7 +27,7 @@ const GallerySection = () => {
             Exemples d'interventions
           </h2>
           <p className="text-muted-foreground text-lg">
-            Découvrez quelques-unes de nos interventions de débarras dans le Var. Chaque projet est unique, nous nous adaptons à vos besoins.
+            Découvrez quelques-unes de nos réalisations de charpente et couverture dans le Var. Chaque projet est unique, nous nous adaptons à vos besoins.
           </p>
         </div>
 

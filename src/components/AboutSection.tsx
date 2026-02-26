@@ -3,9 +3,9 @@ import { CheckCircle2 } from "lucide-react";
 
 const steps = [
   { num: "01", title: "Contact & Devis", desc: "Appelez-nous ou remplissez le formulaire. Devis gratuit sous 24h." },
-  { num: "02", title: "Visite & Évaluation", desc: "Nous venons sur place pour estimer le volume et le coût." },
-  { num: "03", title: "Intervention", desc: "Notre équipe débarrasse, trie et nettoie dans les délais convenus." },
-  { num: "04", title: "Recyclage & Don", desc: "Les objets sont recyclés, donnés ou évacués de manière responsable." },
+  { num: "02", title: "Diagnostic", desc: "Nous intervenons sur place pour évaluer l'état de votre toiture." },
+  { num: "03", title: "Réalisation", desc: "Nos artisans qualifiés réalisent les travaux avec soin et dans les délais." },
+  { num: "04", title: "Garantie", desc: "Vérification finale et garantie sur tous nos travaux de couverture." },
 ];
 
 const AboutSection = () => {
@@ -36,10 +36,10 @@ const AboutSection = () => {
               Pourquoi nous choisir
             </span>
             <h2 className="text-3xl lg:text-4xl font-display font-extrabold text-foreground mt-3 mb-6">
-              Le débarras simplifié, du début à la fin
+              La couverture simplifiée, du début à la fin
             </h2>
             <p className="text-muted-foreground text-lg mb-8 leading-relaxed">
-              DebarrasPower est une entreprise locale du Var spécialisée dans le débarras de tous types de biens. Notre engagement : un travail propre, rapide et au juste prix, avec un recyclage responsable de vos objets.
+              TOITURE PACA est une entreprise locale du Var spécialisée dans la charpente et la couverture. Notre engagement : un travail propre, rapide et au juste prix, avec une garantie décennale sur tous nos travaux.
             </p>
 
             <div className="grid sm:grid-cols-2 gap-4">
