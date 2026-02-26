@@ -22,7 +22,7 @@ const TestimonialsSection = () => {
             <div className="text-left">
               <div className="flex items-baseline gap-2">
                 <span className="text-2xl font-bold text-foreground">
-                  5.0
+                  4.5
                 </span>
                 <span className="text-muted-foreground">/5</span>
               </div>

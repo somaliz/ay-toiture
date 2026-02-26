@@ -161,7 +161,7 @@ const CityPage = () => {
               <div className="bg-primary rounded-xl p-8 text-primary-foreground">
                 <div className="flex items-center gap-2 mb-4">
                   <Star className="w-5 h-5 text-accent" />
-                  <span className="font-display font-bold text-lg">4.9/5 sur Google</span>
+                  <span className="font-display font-bold text-lg">4.5/5 sur Google</span>
                 </div>
                 <p className="text-primary-foreground/80 mb-6">Plus de 87 avis clients vérifiés. Nos clients à {city.name} et dans le Var nous recommandent pour notre sérieux, notre rapidité et notre transparence.</p>
                 <div className="flex items-center gap-2 mb-2">
@@ -182,7 +182,7 @@ const CityPage = () => {
           <section className="py-16 lg:py-24 section-alt">
             <div className="container">
               <h2 className="text-2xl lg:text-3xl font-display font-extrabold text-foreground mb-6 text-center">
-                Débarras près de {city.name}
+                Couverture près de {city.name}
               </h2>
               <p className="text-muted-foreground text-center mb-8 max-w-xl mx-auto">
                 Nous intervenons également dans les communes voisines de {city.name}.
@@ -195,7 +195,7 @@ const CityPage = () => {
                     className="inline-flex items-center gap-1.5 bg-card border border-border rounded-full px-4 py-2 text-sm text-foreground hover:border-accent/50 hover:bg-accent/5 transition-colors"
                   >
                     <MapPin className="w-3 h-3 text-accent" />
-                    Débarras {c.name}
+                    Couverture {c.name}
                   </Link>
                 ))}
                 {city.nearbyAreas

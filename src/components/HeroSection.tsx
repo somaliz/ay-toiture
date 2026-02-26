@@ -1,6 +1,6 @@
 import { Phone, ArrowRight, Star, Shield, Recycle } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import heroImage from "@/assets/hero-debarras.jpg";
+import heroImage from "@/assets/hero-toiture.jpg";
 
 const HeroSection = () => {
   return (
@@ -52,7 +52,7 @@ const HeroSection = () => {
 
           <div className="flex flex-wrap gap-6 animate-fade-up" style={{ animationDelay: "0.4s" }}>
             {[
-              { icon: Star, text: "4.9/5 sur Google" },
+              { icon: Star, text: "4.5/5 sur Google" },
               { icon: Recycle, text: "Recyclage responsable" },
               { icon: Shield, text: "Assurance incluse" },
             ].map((item) => (
