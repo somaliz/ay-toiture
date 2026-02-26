@@ -100,14 +100,14 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>DebarrasPower | Débarras Professionnel dans le Var (83) - Devis Gratuit</title>
-        <meta name="description" content="DebarrasPower : entreprise de débarras dans le Var (83). Maisons, appartements, caves, greniers, bureaux. Devis gratuit sous 24h. Intervention rapide à Toulon, Hyères, Fréjus et tout le Var." />
-        <meta name="keywords" content="débarras var, débarras toulon, débarras hyères, débarras fréjus, vide maison var, débarras 83, entreprise débarras var, débarras après décès var" />
-        <link rel="canonical" href="https://debarraspower.com" />
-        <meta property="og:title" content="DebarrasPower | Débarras Professionnel dans le Var (83)" />
-        <meta property="og:description" content="Service de débarras professionnel dans tout le Var. Devis gratuit sous 24h. Recyclage responsable." />
+        <title>Toiture PACA | Charpente & Couverture dans le Var (83) - Devis Gratuit</title>
+        <meta name="description" content="Toiture PACA : artisan couvreur à Toulon. Charpente, couverture, réparation, entretien, diagnostic toiture dans le Var et PACA. Devis gratuit, intervention rapide." />
+        <meta name="keywords" content="couverture var, toiture toulon, charpente var, réparation toiture, diagnostic toiture, entretien toiture, couvreur 83, artisan toiture" />
+        <link rel="canonical" href="https://www.ay-toiture.fr" />
+        <meta property="og:title" content="Toiture PACA | Charpente & Couverture dans le Var (83)" />
+        <meta property="og:description" content="Artisan couvreur à Toulon. Charpente, couverture, réparation, entretien. Devis gratuit, intervention rapide." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://debarraspower.com" />
+        <meta property="og:url" content="https://www.ay-toiture.fr" />
         <script type="application/ld+json">{JSON.stringify(localBusinessSchema)}</script>
         <script type="application/ld+json">{JSON.stringify(faqSchema)}</script>
       </Helmet>
