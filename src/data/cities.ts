@@ -155,17 +155,9 @@ export const cities: CityData[] = [
     intro: "Besoin d'un couvreur à La Valette-du-Var ? Notre équipe intervient dans tous les quartiers de cette commune résidentielle prisée pour rénover maisons, villas et immeubles.",
     localInfo: "La Valette-du-Var est une commune résidentielle très recherchée pour sa qualité de vie. Ses quartiers pavillonnés et ses résidences récentes créent un besoin actif de services de couverture.",
     nearbyAreas: ["Toulon", "La Garde", "Le Revest-les-Eaux", "Carqueiranne"],
-  },
-  {
-    name: "Hyères", // Already added above - this is a duplicate entry
-    slug: "hyeres",
-    postalCode: "83400",
-    metaTitle: "Couverture Hyères (83400) | TOITURE PACA - Devis Gratuit",
-    metaDescription: "Artisan couvreur à Hyères. Charpente, couverture, réparation toiture. Devis gratuit, intervention rapide sur Hyères et presqu'île.",
-    h1: "Artisan Couvreur à Hyères (83400)",
-    description: "TOITURE PACA propose ses services de couverture à Hyères et sur la presqu'île de Giens. Ville balnéaire prisée, Hyères dispose d'un patrimoine immobilier diversifié.",
-    intro: "Besoin d'un couvreur à Hyères ? Notre équipe intervient rapidement dans toute la commune, du centre historique aux quartiers balnéaires de l'Almanarre et l'Ayguade.",
-    localInfo: "Hyères-les-Palmiers est la commune la plus étendue du Var avec ses 13 km de plages. La ville accueille de nombreuses résidences secondaires nécessitant des travaux d'entretien de toiture.",
-    nearbyAreas: ["La Seyne-sur-Mer", "Toulon", "Carqueiranne", "La Londe-les-Maures", "Pradon"],
   }
 ];
+
+export function getCityBySlug(slug: string): CityData | undefined {
+  return cities.find(city => city.slug === slug);
+}
