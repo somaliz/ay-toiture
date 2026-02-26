@@ -17,7 +17,7 @@ const AboutSection = () => {
           <div className="relative rounded-2xl overflow-hidden shadow-2xl">
             <img
               src={beforeAfterImage}
-              alt="Avant et après débarras par DebarrasPower dans le Var"
+              alt="Artisan couvreur TOITURE PACA dans le Var"
               className="w-full h-auto"
               loading="lazy"
             />

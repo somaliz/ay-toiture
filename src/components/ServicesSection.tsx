@@ -21,10 +21,10 @@ const ServicesSection = () => {
             Nos Services
           </span>
           <h2 className="text-3xl lg:text-4xl font-display font-extrabold text-foreground mt-3 mb-4">
-            Un service de débarras complet
+            Services de couverture complets
           </h2>
           <p className="text-muted-foreground text-lg">
-            Quel que soit votre besoin, DebarrasPower intervient rapidement dans tout le Var avec professionnalisme et respect.
+            Quel que soit votre besoin, TOITURE PACA intervient rapidement dans tout le Var avec professionnalisme et respect.
           </p>
         </div>
 

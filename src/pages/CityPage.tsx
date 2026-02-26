@@ -22,8 +22,8 @@ const services = [
 const advantages = [
   "Devis gratuit et sans engagement sous 24h",
   "Intervention rapide sous 48 à 72h",
-  "Tri, recyclage et don aux associations",
-  "Nettoyage complet après intervention",
+  "Garantie décennale sur tous les travaux",
+  "Materiaux de qualité et certifications RGE",
   "Équipe professionnelle et assurée",
   "Prix transparent, pas de mauvaise surprise",
 ];
@@ -37,22 +37,21 @@ const CityPage = () => {
   const localBusinessSchema = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    name: `DebarrasPower - Débarras ${city.name}`,
+    name: `TOITURE PACA - Couverture ${city.name}`,
     description: city.metaDescription,
-    url: `https://debarraspower.com/${city.slug}`,
-    telephone: "+33659637006",
-    email: "contact@debarraspower.com",
+    url: `https://www.ay-toiture.fr/${city.slug}`,
+    telephone: "+33604053510",
+    email: "director@ay-toiture.fr",
     areaServed: { "@type": "City", name: city.name, postalCode: city.postalCode },
     priceRange: "€€",
-    aggregateRating: { "@type": "AggregateRating", ratingValue: "4.9", reviewCount: "87" },
   };
 
   const breadcrumbSchema = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Accueil", item: "https://debarraspower.com" },
-      { "@type": "ListItem", position: 2, name: `Débarras ${city.name}`, item: `https://debarraspower.com/${city.slug}` },
+      { "@type": "ListItem", position: 1, name: "Accueil", item: "https://www.ay-toiture.fr" },
+      { "@type": "ListItem", position: 2, name: `Couverture ${city.name}`, item: `https://www.ay-toiture.fr/${city.slug}` },
     ],
   };
 
@@ -63,11 +62,11 @@ const CityPage = () => {
       <Helmet>
         <title>{city.metaTitle}</title>
         <meta name="description" content={city.metaDescription} />
-        <link rel="canonical" href={`https://debarraspower.com/${city.slug}`} />
+        <link rel="canonical" href={`https://www.ay-toiture.fr/${city.slug}`} />
         <meta property="og:title" content={city.metaTitle} />
         <meta property="og:description" content={city.metaDescription} />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content={`https://debarraspower.com/${city.slug}`} />
+        <meta property="og:url" content={`https://www.ay-toiture.fr/${city.slug}`} />
         <script type="application/ld+json">{JSON.stringify(localBusinessSchema)}</script>
         <script type="application/ld+json">{JSON.stringify(breadcrumbSchema)}</script>
       </Helmet>
@@ -78,7 +77,7 @@ const CityPage = () => {
         {/* Hero */}
         <section className="relative min-h-[60vh] flex items-center pt-28 pb-16">
           <div className="absolute inset-0">
-            <img src={heroImage} alt={`Débarras professionnel à ${city.name}`} className="w-full h-full object-cover" loading="eager" />
+            <img src={heroImage} alt={`Artisan couvreur à ${city.name}`} className="w-full h-full object-cover" loading="eager" />
             <div className="absolute inset-0 hero-gradient" />
           </div>
           <div className="container relative z-10">
@@ -86,7 +85,7 @@ const CityPage = () => {
               <nav className="text-sm text-primary-foreground/60 mb-4">
                 <Link to="/" className="hover:text-accent transition-colors">Accueil</Link>
                 <span className="mx-2">/</span>
-                <span className="text-primary-foreground">Débarras {city.name}</span>
+                <span className="text-primary-foreground">Couverture {city.name}</span>
               </nav>
               <h1 className="text-3xl sm:text-4xl lg:text-5xl font-display font-black text-primary-foreground leading-[1.1] mb-4">
                 {city.h1}
@@ -109,7 +108,7 @@ const CityPage = () => {
           <div className="container">
             <div className="max-w-3xl mx-auto">
               <h2 className="text-2xl lg:text-3xl font-display font-extrabold text-foreground mb-6">
-                Votre entreprise de débarras à {city.name}
+                Votre artisan couvreur à {city.name}
               </h2>
               <p className="text-muted-foreground text-lg leading-relaxed mb-6">{city.intro}</p>
               <p className="text-muted-foreground leading-relaxed">{city.localInfo}</p>
@@ -123,9 +122,9 @@ const CityPage = () => {
             <div className="text-center max-w-2xl mx-auto mb-12">
               <span className="text-accent font-display font-bold text-sm uppercase tracking-widest">Nos Services</span>
               <h2 className="text-2xl lg:text-3xl font-display font-extrabold text-foreground mt-3 mb-4">
-                Services de débarras à {city.name}
+                Services de couverture à {city.name}
               </h2>
-              <p className="text-muted-foreground">Tous nos services de débarras disponibles à {city.name} ({city.postalCode}) et ses alentours.</p>
+              <p className="text-muted-foreground">Tous nos services de couverture disponibles à {city.name} ({city.postalCode}) et ses alentours.</p>
             </div>
             <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
               {services.map((s) => (
@@ -148,7 +147,7 @@ const CityPage = () => {
               <div>
                 <span className="text-accent font-display font-bold text-sm uppercase tracking-widest">Pourquoi Nous</span>
                 <h2 className="text-2xl lg:text-3xl font-display font-extrabold text-foreground mt-3 mb-6">
-                  Pourquoi choisir DebarrasPower à {city.name} ?
+                  Pourquoi choisir TOITURE PACA à {city.name} ?
                 </h2>
                 <ul className="space-y-3">
                   {advantages.map((a) => (
