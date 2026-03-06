@@ -24,7 +24,7 @@ const ServicesSection = () => {
             Services de couverture complets
           </h2>
           <p className="text-muted-foreground text-lg">
-            Quel que soit votre besoin, TOITURE PACA intervient rapidement dans tout le Var avec professionnalisme et respect.
+            Quel que soit votre besoin, TOITURE PACA intervient rapidement dans tout le Var avec professionnalisme et savoir-faire.
           </p>
         </div>
 

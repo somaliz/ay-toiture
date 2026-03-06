@@ -1,6 +1,6 @@
 import { useParams, Navigate } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
-import { Phone, ArrowRight, MapPin, Star, Shield, Home, Wrench, Droplets, Hammer, Sun, Wind, CheckCircle } from "lucide-react";
+import { Phone, ArrowRight, MapPin, Star, Shield, Home, Wrench, Droplets, Hammer, Sun, Wind, CheckCircle, Recycle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Header from "@/components/Header";
 import FAQSection from "@/components/FAQSection";
@@ -96,7 +96,7 @@ const CityPage = () => {
                   <a href="#devis">Devis Gratuit à {city.name}<ArrowRight className="w-5 h-5" /></a>
                 </Button>
                 <Button variant="heroOutline" size="lg" asChild>
-                  <a href="tel:+33659637006"><Phone className="w-5 h-5" />06 59 63 70 06</a>
+                  <a href="tel:+33604053510"><Phone className="w-5 h-5" />06 04 05 35 10</a>
                 </Button>
               </div>
             </div>
