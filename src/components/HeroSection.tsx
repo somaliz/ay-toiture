@@ -1,4 +1,4 @@
-import { Phone, ArrowRight, Star, Shield, Recycle } from "lucide-react";
+import { Phone, ArrowRight, Star, Shield, Recycle, Clock } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import heroImage from "@/assets/hero-toiture.jpg";
 
@@ -18,11 +18,19 @@ const HeroSection = () => {
 
       <div className="container relative z-10">
         <div className="max-w-2xl">
-          <div className="inline-flex items-center gap-2 bg-accent/20 border border-accent/40 rounded-full px-4 py-1.5 mb-6 animate-fade-up">
-            <Shield className="w-4 h-4 text-accent" />
-            <span className="text-accent-foreground text-sm font-medium">
-              Artisan Couvreur Qualifié
-            </span>
+          <div className="flex flex-wrap gap-3 mb-6 animate-fade-up">
+            <div className="inline-flex items-center gap-2 bg-accent/20 border border-accent/40 rounded-full px-4 py-1.5">
+              <Shield className="w-4 h-4 text-accent" />
+              <span className="text-accent-foreground text-sm font-medium">
+                Artisan Couvreur Qualifié
+              </span>
+            </div>
+            <div className="inline-flex items-center gap-2 bg-orange-500/20 border border-orange-500/40 rounded-full px-4 py-1.5">
+              <Clock className="w-4 h-4 text-orange-500" />
+              <span className="text-orange-500 text-sm font-medium">
+                Intervention urgente sous 24h
+              </span>
+            </div>
           </div>
 
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-display font-black text-primary-foreground leading-[1.1] mb-6 animate-fade-up" style={{ animationDelay: "0.1s" }}>
@@ -32,13 +40,13 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-lg sm:text-xl text-primary-foreground/80 mb-8 leading-relaxed max-w-xl animate-fade-up" style={{ animationDelay: "0.2s" }}>
-            Charpente, couverture, réparation et entretien. Devis gratuit, intervention rapide.
+            Charpente, couverture, réparation et entretien. Devis gratuit sous 24h, intervention rapide en urgence.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 mb-10 animate-fade-up" style={{ animationDelay: "0.3s" }}>
             <Button variant="hero" size="lg" asChild>
               <a href="#devis">
-                Demander un devis gratuit
+                Devis Gratuit sous 24h
                 <ArrowRight className="w-5 h-5" />
               </a>
             </Button>

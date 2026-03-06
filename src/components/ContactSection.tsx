@@ -11,7 +11,7 @@ const ContactSection = () => {
 
           <div className="relative z-10 max-w-2xl mx-auto">
             <span className="text-accent font-display font-bold text-sm uppercase tracking-widest">
-              Devis Gratuit
+              Devis Gratuit sous 24h
             </span>
             <h2 className="text-3xl lg:text-4xl font-display font-extrabold text-primary-foreground mt-3 mb-4">
               Besoin de couverture ou charpente ?

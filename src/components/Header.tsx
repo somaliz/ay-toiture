@@ -49,9 +49,9 @@ const Header = () => {
           ))}
           <a
             href="#devis"
-            className="bg-accent text-accent-foreground px-5 py-2.5 rounded-lg font-display font-bold text-sm hover:bg-accent-hover transition-colors"
+            className="bg-accent text-accent-foreground px-4 py-2.5 rounded-lg font-display font-bold text-sm hover:bg-accent-hover transition-colors"
           >
-            Devis Gratuit
+            Devis Gratuit 24h
           </a>
         </nav>
 
