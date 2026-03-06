@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background circle with primary blue -->
+  <rect width="64" height="64" fill="#1e3a5f" rx="12"/>
+
+  <!-- Roof icon -->
+  <g transform="translate(16, 18)">
+    <!-- Main roof shape -->
+    <path d="M2 16 L16 4 L30 16" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Roof base -->
+    <path d="M6 16 L6 26 L26 26 L26 16" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Accent line (orange) -->
+    <path d="M16 4 L16 12" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
