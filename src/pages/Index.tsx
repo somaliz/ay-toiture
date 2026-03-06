@@ -77,7 +77,7 @@ const localBusinessSchema = {
   "email": "director@ay-toiture.fr",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "133 Rue du Jeu de Paume",
+    "streetAddress": "Rue du Jeu de Paume",
     "addressLocality": "Toulon",
     "postalCode": "83200",
     "addressCountry": "FR"

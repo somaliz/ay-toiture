@@ -392,7 +392,7 @@ Update `src/components/Footer.tsx` with:
 const businessName = "TOITURE PACA";
 const phone = "06 04 05 35 10";
 const email = "director@ay-toiture.fr";
-const address = "133 Rue du Jeu de Paume, 83200 Toulon";
+const address = "Rue du Jeu de Paume, 83200 Toulon";
 const legalName = "ZAOUALI AYMEN";
 const siren = "994859908";
 
@@ -802,7 +802,7 @@ Update `src/components/ContactSection.tsx`:
 const contactInfo = {
   phone: "06 04 05 35 10",
   email: "director@ay-toiture.fr",
-  address: "133 Rue du Jeu de Paume, 83200 Toulon",
+  address: "Rue du Jeu de Paume, 83200 Toulon",
   hours: "Lundi - Samedi, 8h - 19h"
 };
 ```
@@ -877,7 +877,7 @@ const localBusinessSchema = {
   "email": "director@ay-toiture.fr",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "133 Rue du Jeu de Paume",
+    "streetAddress": "Rue du Jeu de Paume",
     "addressLocality": "Toulon",
     "postalCode": "83200",
     "addressCountry": "FR"
@@ -1187,7 +1187,7 @@ Site vitrine pour TOITURE PACA, artisan couvreur dans le Var (83).
 - **Brand:** TOITURE PACA
 - **Phone:** 06 04 05 35 10
 - **Email:** director@ay-toiture.fr
-- **Location:** 133 Rue du Jeu de Paume, 83200 Toulon
+- **Location:** Rue du Jeu de Paume, 83200 Toulon
 - **Service Area:** Var (83) and PACA region
 
 ## Services

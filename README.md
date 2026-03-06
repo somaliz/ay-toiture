@@ -7,7 +7,7 @@ Site vitrine pour TOITURE PACA, artisan couvreur dans le Var (83).
 - **Brand:** TOITURE PACA
 - **Phone:** 06 04 05 35 10
 - **Email:** director@ay-toiture.fr
-- **Location:** 133 Rue du Jeu de Paume, 83200 Toulon
+- **Location:** Rue du Jeu de Paume, 83200 Toulon
 - **Service Area:** Var (83) and PACA region
 
 ## Services

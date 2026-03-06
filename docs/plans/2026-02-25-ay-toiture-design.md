@@ -12,7 +12,7 @@
 - **Brand Name:** TOITURE PACA
 - **Legal Name:** ZAOUALI AYMEN (footer & legal page only - NOT public)
 - **Domain:** https://www.ay-toiture.fr
-- **Location:** 133 Rue du Jeu de Paume, 83200 Toulon, France
+- **Location:** Rue du Jeu de Paume, 83200 Toulon, France
 - **SIREN:** 994859908
 - **Legal Structure:** Entrepreneur individuel
 
@@ -162,7 +162,7 @@ List of 8 core services with icons and descriptions:
 #### Section 10: Contact Section
 - **Phone:** 06 04 05 35 10
 - **Email:** director@ay-toiture.fr
-- **Address:** 133 Rue du Jeu de Paume, 83200 Toulon
+- **Address:** Rue du Jeu de Paume, 83200 Toulon
 - **Contact form** (name, email, phone, message)
 - **Map placeholder**
 
@@ -325,7 +325,7 @@ export const testimonials = [
   "email": "director@ay-toiture.fr",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "133 Rue du Jeu de Paume",
+    "streetAddress": "Rue du Jeu de Paume",
     "addressLocality": "Toulon",
     "postalCode": "83200",
     "addressCountry": "FR"
@@ -421,7 +421,7 @@ export const testimonials = [
 - [ ] Update contact info everywhere:
   - Phone: 06 04 05 35 10
   - Email: director@ay-toiture.fr
-  - Address: 133 Rue du Jeu de Paume, 83200 Toulon
+  - Address: Rue du Jeu de Paume, 83200 Toulon
 - [ ] Update Footer with legal name (ZAOUALI AYMEN) + SIREN
 - [ ] Update logo/brand text in Header
 
@@ -484,7 +484,7 @@ export const testimonials = [
 #### Contact Section
 - [ ] Update phone: 06 04 05 35 10
 - [ ] Update email: director@ay-toiture.fr
-- [ ] Update address: 133 Rue du Jeu de Paume, 83200 Toulon
+- [ ] Update address: Rue du Jeu de Paume, 83200 Toulon
 
 ### Phase 4: Schema.org & SEO
 - [ ] Update LocalBusiness schema for TOITURE PACA

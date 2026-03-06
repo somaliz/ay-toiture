@@ -11,7 +11,7 @@
 ### Key Business Details
 - **Phone**: 06 04 05 35 10
 - **Email**: director@ay-toiture.fr
-- **Location**: 133 Rue du Jeu de Paume, 83200 Toulon, France
+- **Location**: Rue du Jeu de Paume, 83200 Toulon, France
 - **Service Area**: Var department (83) and PACA region
 - **Business Model**: Lead generation through phone/email contact
 - **Services**: Roof installation, renovation, repair, and maintenance

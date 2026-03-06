@@ -54,7 +54,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 text-accent mt-0.5" />
-                <span>133 Rue du Jeu de Paume, 83200 Toulon</span>
+                <span>Rue du Jeu de Paume, 83200 Toulon</span>
               </li>
             </ul>
           </div>
