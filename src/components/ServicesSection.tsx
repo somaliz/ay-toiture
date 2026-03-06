@@ -1,5 +1,6 @@
-import { Home, Search, ClipboardCheck, Droplet, Hammer, Wrench, FileText } from "lucide-react";
+import { Home, Search, ClipboardCheck, Droplet, Hammer, Wrench, FileText, ArrowRight } from "lucide-react";
 import { services } from "@/data/services";
+import { Link } from "react-router-dom";
 
 // Icon mapping from string to actual Lucide icon component
 const iconMap: Record<string, React.ComponentType<{ className?: string }>> = {
@@ -32,20 +33,27 @@ const ServicesSection = () => {
           {services.map((service) => {
             const IconComponent = iconMap[service.icon] || Home;
             return (
-              <article
+              <Link
                 key={service.id}
-                className="group bg-card rounded-xl p-6 border border-border hover:border-accent/40 hover:shadow-lg transition-all duration-300"
+                to="#devis"
+                className="group block"
               >
-                <div className="w-12 h-12 rounded-lg bg-accent/10 flex items-center justify-center mb-4 group-hover:bg-accent/20 transition-colors">
-                  <IconComponent className="w-6 h-6 text-accent" />
-                </div>
-                <h3 className="font-display font-bold text-lg text-foreground mb-2">
-                  {service.title}
-                </h3>
-                <p className="text-muted-foreground text-sm leading-relaxed">
-                  {service.description}
-                </p>
-              </article>
+                <article className="h-full bg-card rounded-xl p-6 border border-border hover:border-accent/40 hover:shadow-lg transition-all duration-300">
+                  <div className="w-12 h-12 rounded-lg bg-accent/10 flex items-center justify-center mb-4 group-hover:bg-accent/20 transition-colors">
+                    <IconComponent className="w-6 h-6 text-accent" />
+                  </div>
+                  <h3 className="font-display font-bold text-lg text-foreground mb-2 group-hover:text-accent transition-colors">
+                    {service.title}
+                  </h3>
+                  <p className="text-muted-foreground text-sm leading-relaxed mb-4">
+                    {service.description}
+                  </p>
+                  <div className="flex items-center text-accent text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity">
+                    En savoir plus
+                    <ArrowRight className="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform" />
+                  </div>
+                </article>
+              </Link>
             );
           })}
         </div>

@@ -7,6 +7,7 @@ import { HelmetProvider } from "react-helmet-async";
 import Index from "./pages/Index";
 import CityPage from "./pages/CityPage";
 import MentionsLegales from "./pages/MentionsLegales";
+import ServicePage from "./pages/ServicePage";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -21,6 +22,14 @@ const App = () => (
           <Routes>
             <Route path="/" element={<Index />} />
             <Route path="/mentions-legales" element={<MentionsLegales />} />
+            <Route path="/charpente" element={<ServicePage />} />
+            <Route path="/couverture" element={<ServicePage />} />
+            <Route path="/inspection" element={<ServicePage />} />
+            <Route path="/diagnostic" element={<ServicePage />} />
+            <Route path="/reparation" element={<ServicePage />} />
+            <Route path="/remplacement" element={<ServicePage />} />
+            <Route path="/entretien" element={<ServicePage />} />
+            <Route path="/devis" element={<ServicePage />} />
             <Route path="/:slug" element={<CityPage />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
