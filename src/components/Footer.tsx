@@ -22,11 +22,12 @@ const Footer = () => {
           <div>
             <h3 className="font-display font-bold text-sm uppercase tracking-wider mb-4 text-accent">Services</h3>
             <ul className="space-y-2 text-sm text-primary-foreground/70">
-              <li><a href="#services" className="hover:text-accent transition-colors">Couverture</a></li>
-              <li><a href="#services" className="hover:text-accent transition-colors">Zinguerie</a></li>
-              <li><a href="#services" className="hover:text-accent transition-colors">Rénovation de toiture</a></li>
-              <li><a href="#services" className="hover:text-accent transition-colors">Entretien & réparation</a></li>
-              <li><a href="#services" className="hover:text-accent transition-colors">Étanchéité</a></li>
+              <li><a href="/charpente" className="hover:text-accent transition-colors">Charpente</a></li>
+              <li><a href="/couverture" className="hover:text-accent transition-colors">Couverture</a></li>
+              <li><a href="/inspection" className="hover:text-accent transition-colors">Inspection</a></li>
+              <li><a href="/reparation" className="hover:text-accent transition-colors">Réparation</a></li>
+              <li><a href="/entretien" className="hover:text-accent transition-colors">Entretien</a></li>
+              <li><a href="/devis" className="hover:text-accent transition-colors">Devis gratuit</a></li>
             </ul>
           </div>
 

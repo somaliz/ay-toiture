@@ -34,10 +34,10 @@ const Header = () => {
 
         <nav className="hidden md:flex items-center gap-6">
           {[
-            { label: "Services", href: "#services" },
-            { label: "Réalisations", href: "#realisations" },
-            { label: "Zones", href: "#zones" },
-            { label: "FAQ", href: "#faq" },
+            { label: "Services", href: "/charpente" },
+            { label: "Réalisations", href: "/#realisations" },
+            { label: "Zones", href: "/#zones" },
+            { label: "FAQ", href: "/#faq" },
           ].map((item) => (
             <a
               key={item.href}
@@ -48,7 +48,7 @@ const Header = () => {
             </a>
           ))}
           <a
-            href="#devis"
+            href="/devis"
             className="bg-accent text-accent-foreground px-4 py-2.5 rounded-lg font-display font-bold text-sm hover:bg-accent-hover transition-colors"
           >
             Devis Gratuit 24h
